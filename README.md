@@ -17,8 +17,8 @@ sus compañeros, destacando el contenido de más calidad.]
 #### Entidades de Datos Básicas
 | Entidad | ED 1 | Ejemplo de datos |
 | :--- | :--- | :--- |
-| Usuarios | Personas registradas en la plataforma | b272511680@gmail.com, liheng, alumno B |
-| [Entidad 2] | [Qué guarda] | [Ejemplo] |
+| Usuarios1 | Arquitecto Web y UI | b272511680@gmail.com, liheng, alumno B |
+| Usuarios2 |Analista de Sostenibilidad | VICTORMM@gmail.com,victor,alumno A |
 
 #### Prototipo de Interfaz (Frontend)
 A continuación se muestra el wireframe de nuestra aplicación:
