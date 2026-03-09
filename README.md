@@ -4,13 +4,13 @@
 **Nombre de la Web:** [EDuConnect]
 
 #### Funcionalidades Principales
-1. **Funcionalidad -Feed de publicaciones 1:** [Los alumnos pueden publicar dudas,
+1. **Funcionalidad -Feed de publicaciones :** [Los alumnos pueden publicar dudas,
 compartir apuntes y responder a sus compañeros en un muro
 común organizado por asignatura.]
-2. **Funcionalidad -Grupos de estudio 2:** [Los usuarios pueden crear o unirse a
+2. **Funcionalidad -Grupos de estudio :** [Los usuarios pueden crear o unirse a
 grupos privados por materia o curso para compartir recursos
 y coordinar sesiones de estudio.]
-3. **Funcionalidad -Sistema de valoración de contenido 3:** [ Los alumnos pueden
+3. **Funcionalidad -Sistema de valoración de contenido :** [ Los alumnos pueden
 puntuar y marcar como útiles los apuntes o respuestas de
 sus compañeros, destacando el contenido de más calidad.]
 
