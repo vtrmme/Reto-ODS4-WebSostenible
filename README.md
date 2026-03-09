@@ -15,7 +15,7 @@ puntuar y marcar como útiles los apuntes o respuestas de
 sus compañeros, destacando el contenido de más calidad.]
 
 #### Entidades de Datos Básicas
-| Entidad | ED 1 | Ejemplo de datos |
+| alumno | trabajo | datos |
 | :--- | :--- | :--- |
 | Usuarios1 | Arquitecto Web y UI | b272511680@gmail.com, liheng, alumno B |
 | Usuarios2 |Analista de Sostenibilidad | VICTORMM@gmail.com,victor,alumno A |
